@@ -1,0 +1,19 @@
+.alert {
+    width: 50%;
+}
+h1{
+    color: blue;
+    font-family: 'Charm', cursive;
+}
+.text-muted{
+    font-family: 'Charm', Italic;
+    font-size: 150%;
+}
+a{
+    color: black;
+    font-size: 250%;
+}
+.card-header{
+    font-family: 'Charm', cursive;
+     font-size: 150%;
+}
